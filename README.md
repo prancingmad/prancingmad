@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrew Gray, otherwise known as Prancing Mad on the web!
+# 👋 Hi, I'm Andrew, otherwise known as Prancing Mad on the web!
 
 I'm a self-taught developer on a journey to become a full-time programmer.  
 I began learning through **Boot.dev** in **July 2025**, starting with a strong focus on **Python**. Since then, I’ve been expanding into **Go** and **JavaScript** as I explore more of the tech world.
